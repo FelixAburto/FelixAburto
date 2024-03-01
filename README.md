@@ -9,7 +9,7 @@
   - [Automating Incident Response Tasks with Bash Part 2: Post Incident Response Report](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash-Part-2-Post-Incident-Response-Report)
 
 ### <b>Vulnerability Management</b>
-  - [Vulernability Management Lifecycle with Azure](https://github.com/Gutz2NvrGiveUp/Vulnerability-Management-with-Azure/tree/main)
+  - [Vulnerability Management Lifecycle with Azure](https://github.com/Gutz2NvrGiveUp/Vulnerability-Management-with-Azure/tree/main)
 ### <b>Microsoft Sentinal</b>
   - [Implementing a SIEM In Azure and Mapping Live Cyber Attacks](https://github.com/Gutz2NvrGiveUp/Implementing-a-SIEM-In-Azure-and-Mapping-Live-Cyber-Attacks)
 ### <b>Python</b>
