@@ -15,7 +15,7 @@
 ### <b>Python</b>
   - [Phishing Email Analysis Automation and Phishing Analysis Report](https://github.com/Gutz2NvrGiveUp/Phishing-Email-Analysis-Automation)
 ### <b>PowerShell</b>
-  - [Monitor and Alert Windows Security Events with Powershell](https://github.com/Gutz2NvrGiveUp/Monitor-and-Alert-Windows-Security-Events-with-PowerShell)
+  - [Monitor and Alert Windows Security Events with PowerShell](https://github.com/Gutz2NvrGiveUp/Monitor-and-Alert-Windows-Security-Events-with-PowerShell)
 
  
 <h2>📜 Certifications</h2>
