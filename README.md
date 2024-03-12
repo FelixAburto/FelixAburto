@@ -18,7 +18,7 @@
   - [Monitor and Alert Windows Security Events with PowerShell](https://github.com/Gutz2NvrGiveUp/Monitor-and-Alert-Windows-Security-Events-with-PowerShell)
 
  
-<h2>📜 Certifications</h2>
+<h2>📜 Certifications:</h2>
 
 <a href="https://www.credly.com/badges/3a7f8a4f-e95f-400f-a05b-b7f74b0df003/public_url">
     <img src="https://images.credly.com/size/680x680/images/d7f68b5e-5282-4697-8a1e-7e6e16d7d45f/btl1certified.png" alt="Blue Team Level 1" width="140" height="140"/>
