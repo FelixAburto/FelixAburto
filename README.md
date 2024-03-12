@@ -10,7 +10,7 @@
 
 ### <b>Vulnerability Management</b>
   - [Vulnerability Management Lifecycle with Azure](https://github.com/Gutz2NvrGiveUp/Vulnerability-Management-with-Azure/tree/main)
-### <b>Microsoft Sentinal</b>
+### <b>Microsoft Sentinel</b>
   - [Implementing a SIEM In Azure and Mapping Live Cyber Attacks](https://github.com/Gutz2NvrGiveUp/Implementing-a-SIEM-In-Azure-and-Mapping-Live-Cyber-Attacks)
 ### <b>Python</b>
   - [Phishing Email Analysis Automation and Phishing Analysis Report](https://github.com/Gutz2NvrGiveUp/Phishing-Email-Analysis-Automation)
