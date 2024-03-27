@@ -2,16 +2,16 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
+### <b>Azure Cloud SOC</b>
+  - [Creating an Azure Cloud SOC + Honeynet](https://github.com/FelixAburto/Cloud-SOC-Honeynet)
+
 ### <b>Incident Response with Bash</b>
   - [Automating Incident Response Tasks with Bash](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash/tree/main)
 <br />
 
   - [Automating Incident Response Tasks with Bash Part 2: Post Incident Response Report](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash-Part-2-Post-Incident-Response-Report)
-
 ### <b>Vulnerability Management</b>
   - [Vulnerability Management Lifecycle with Azure](https://github.com/Gutz2NvrGiveUp/Vulnerability-Management-with-Azure/tree/main)
-### <b>Microsoft Sentinel</b>
-  - [Implementing a SIEM In Azure and Mapping Live Cyber Attacks](https://github.com/Gutz2NvrGiveUp/Implementing-a-SIEM-In-Azure-and-Mapping-Live-Cyber-Attacks)
 ### <b>Python</b>
   - [Phishing Email Analysis Automation and Phishing Analysis Report](https://github.com/Gutz2NvrGiveUp/Phishing-Email-Analysis-Automation)
 ### <b>PowerShell</b>
