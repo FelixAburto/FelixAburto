@@ -5,7 +5,7 @@
 <h2>🔒 Cybersecurity Projects:</h2>
 
 ### <b>Detection Engineering</b>
-  - [Detection Engineering with Elastic SIEM](https://github.com/FelixAburto/Cloud-SOC-Honeynet)
+  - [Detection Engineering with Elastic SIEM](https://github.com/FelixAburto/Detection-Engineering)
 
 ### <b>Azure Cloud SOC</b>
   - [Creating an Azure Cloud SOC + Honeynet](https://github.com/FelixAburto/Cloud-SOC-Honeynet)
