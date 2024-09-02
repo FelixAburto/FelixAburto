@@ -4,11 +4,14 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
-### <b>Detection Engineering</b>
+### <b>Detection Engineering Project</b>
   - [Detection Engineering with Elastic SIEM](https://github.com/FelixAburto/Detection-Engineering)
 
 ### <b>Azure Cloud SOC</b>
   - [Creating an Azure Cloud SOC + Honeynet](https://github.com/FelixAburto/Cloud-SOC-Honeynet)
+
+### <b>The GRC Project</b>
+  - [Creating a CMMC Compliant Environment and Implementing NIST RMF for Comprehensive Risk Mitigation](https://github.com/FelixAburto/The-GRC-Project)
 
 ### <b>Incident Response with Bash</b>
   - [Automating Incident Response Tasks with Bash](https://github.com/Gutz2NvrGiveUp/Automating-Incident-Response-Tasks-with-Bash/tree/main)
